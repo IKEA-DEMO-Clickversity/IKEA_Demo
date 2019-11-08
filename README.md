@@ -6,3 +6,4 @@
 # Line1 added to show sqash merge
 # Line2 added to show sqash merge
 # Line3 added to show sqash merge
+# Added a new line
